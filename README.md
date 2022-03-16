@@ -1,20 +1,15 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<a href="https://facebook.com/gnsabo">
-  <img align="left" alt="Godfred's Facebook" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
+<br />
+
 <a href="https://twitter.com/iam1goddey">
   <img align="left" alt="Godfred Nsabo | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/godfred-nsabo/">
   <img align="left" alt="Godfred's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
-
 <br />
 
 - 👋 I’m @godfred-nsabo
