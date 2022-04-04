@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/-TypeScript-563D7C?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Dart-563D7C?style=flat&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/-React-4DB33D?style=flat&logo=react&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-NextJs-4DB33D?style=flat&logo=next&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Angular-F29111?style=flat&logo=angular&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Node.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Flutter-3C873A?style=flat&logo=Flutter&logoColor=white">
@@ -53,7 +54,7 @@
 TypeScript   7 hrs 17 mins   ███████████████████░░░░░░   75.58 % 
 Python   1 hr 55 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
 JavaScript   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Cypress  1 hr 20 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+React/NextJs  1 hr 20 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 
