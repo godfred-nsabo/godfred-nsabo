@@ -23,7 +23,9 @@
 - 💬 Ask me about anything, I am happy to help;
 
 **languages and tools:**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -51,10 +53,11 @@
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 hrs 17 mins   ███████████████████░░░░░░   75.58 % 
-Python   1 hr 55 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
-JavaScript   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-React/NextJs  1 hr 20 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+DevOps-AWS, Kubernetes & Docker 8 hrs 17 mins  ██████████████████████████░░░   85.58 % 
+TypeScript   1 hrs 05 mins   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.58 % 
+Python        20 mins        ████▒░░░░░░░░░░░░░░░░░░░░   2.92 % 
+JavaScript   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+React/NextJs  20 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
