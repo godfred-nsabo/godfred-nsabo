@@ -19,7 +19,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? do reach, [email](mailto:gnsabo@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:godfred.nsabo@amalitech.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 **languages and tools:**  
@@ -65,7 +65,7 @@ React/NextJs  20 mins           ░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=godfred-nsabo&show_icons=true&theme=gotham" alt="godfred-nsabo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamgoddey&show_icons=true&theme=gotham" alt="iamgoddey" />
 
 
 
