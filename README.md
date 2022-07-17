@@ -65,7 +65,7 @@ React/NextJs  20 mins           ░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=godfred-nsabo&show_icons=true&theme=gotham" alt="godfred-nsabo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amali-Tech&show_icons=true&theme=gotham" alt="Amali-Tech" />
 
 
 
