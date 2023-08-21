@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/godfred-nsabo/">
-  <img align="left" alt="Godfred's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Godfred's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
 
