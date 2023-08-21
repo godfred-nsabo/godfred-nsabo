@@ -3,9 +3,9 @@
 
 <br />
 
-<a href="https://twitter.com/iam1goddey">
-  <img align="left" alt="Godfred Nsabo | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<!-- <a href="https://twitter.com/iam1goddey">
+  <img align="left" alt="Godfred Nsabo | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> 
+</a>-->
 
 <a href="https://www.linkedin.com/in/godfred-nsabo/">
       <span class="icon  icon--linkedin">
