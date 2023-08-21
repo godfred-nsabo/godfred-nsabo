@@ -21,16 +21,16 @@
 <br />
 
 - 👋 I’m [Godfred Nsabo](https://www.linkedin.com/in/godfred-nsabo/)
-- 👀 I’m interested in Data Science-Machine Learning, Software and Web Development 
-- 🌱 I’m currently a Salesforce B2C Certified Commerce Cloud Developer
-- 💞️ I’m looking to collaborate on Salesforce
+- 👀 I’m interested in DevOps Engineering, Data Science-Machine Learning, Software and Web Development 
+- 🌱 I’m currently a DevOps Engineer, Backend Developer and Salesforce B2C Certified Commerce Cloud Developer
+- 💞️ I’m looking to collaborate on DevOps Environment and Agile environment
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:gnsabo@gmail.com) :)
 - 💬 Ask me about anything; I am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
