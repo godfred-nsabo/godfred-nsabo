@@ -29,7 +29,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:godfred.nsabo@amalitech.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything; I am happy to help;
 
 **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
@@ -59,7 +59,7 @@
 <img src="http://img.shields.io/badge/-Heroku-4DB33D?style=flat&logo=heroku&logoColor=white">
 
 
-📊 **This week i spent my time on:**
+📊 **This week, I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 DevOps-AWS, Kubernetes & Docker 8 hrs 17 mins  ██████████████████████████░░░   85.58 % 
@@ -72,13 +72,11 @@ React/NextJs  20 mins           ░░░░░░░░░░░░░░░░
 
 
 
-📈 my github stats
+📈 my GitHub stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=godfred-nsabo&show_icons=true&theme=gotham" alt="godfred-nsabo" />
 
 
-
-
- 📫 How to reach me https://www.linkedin.com/in/godfred-nsabo/
+ 📫 How to reach me on ]Linkedin]{https://www.linkedin.com/in/godfred-nsabo/}
 <!-- godfred-nsabo/godfred-nsabo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
